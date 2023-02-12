@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Aboudoc/Bypass-contract-size.git">
+  <a href="https://github.com/Aboudoc/Constant-Sum-AMM.git">
     <img src="images/logo.png" alt="Logo" width="100" height="80">
   </a>
 
